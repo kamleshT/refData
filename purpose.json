@@ -1,0 +1,34 @@
+[
+    {
+          "id": "qwerty",
+		  "dataValue": "QWERTY",
+		  "displayValue": "displayValue1",
+		  "shortDescription": "saadssff",
+		  "longDescription": "longDescription1",
+		  "defaultValue": "defaultValue1"
+    },
+    {
+          "id": "Purpose_124",
+		  "dataValue": "dataValue2",
+		  "displayValue": "displayValue2",
+		  "shortDescription": "shortDescription2",
+		  "longDescription": "longDescription2",
+		  "defaultValue": "defaultValue2"
+    },
+    {
+          "id": "Purpose_125AAAAA@",
+		  "dataValue": "dataValue3",
+		  "displayValue": "displayValue3",
+		  "shortDescription": "shortDescription3",
+		  "longDescription": "longDescription3",
+		  "defaultValue": "defaultValue3"
+    },
+    {
+          "id": "Purpose_126",
+		  "dataValue": "dataValue4",
+		  "displayValue": "displayValue4",
+		  "shortDescription": "shortDescription4",
+		  "longDescription": "longDescription4",
+		  "defaultValue": "defaultValue4"
+    }
+]
